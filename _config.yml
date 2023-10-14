@@ -1,7 +1,7 @@
 # Site settings
 title: selenehienclone.github.io
 description: Description of your GitHub Pages site
-theme: jekyll-theme-minimal
+theme: hyde
 
 # GitHub Pages settings
 repository: selenehienclone/selenehienclone.github.io # Replace with your GitHub username and repository name
